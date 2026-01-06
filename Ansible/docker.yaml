@@ -10,7 +10,7 @@
       community.docker.docker_login:
         registry_url: https://index.docker.io/v1/
         username: "sathizrawe"
-        password: "dckr_pat_2lSHiz5amCst0ms7KknnRzyWZfE"
+        password: "dckr_pat_EBVgraF_Rl46Bucndvl-9NXnZwU"
 
     - name: Build and Push Docker image
       community.docker.docker_image:
